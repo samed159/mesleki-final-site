@@ -2517,9 +2517,9 @@ function openLiveStream(button) {
 function showMatchHighlights(button) {
    
     const matchCard = button.closest('.match-card') || button.closest('.featured-match');
-    const teams = matchCard.querySelectorAll('.team-name');
-    const homeTeam = teams[0].textContent;
-    const awayTeam = teams[1].textContent;
+    const Takımlar = matchCard.querySelectorAll('.team-name');
+    const EvSahibiTakım = teams[0].textContent;
+    const DeplasmanTakımı = teams[1].textContent;
     
   
     window.location.href = `#highlights?match=${encodeURIComponent(homeTeam)}-${encodeURIComponent(awayTeam)}`;
