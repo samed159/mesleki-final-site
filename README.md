@@ -43,12 +43,12 @@ FutbolCanlı, kullanıcılara gerçek zamanlı futbol maçı bilgileri ve günce
 
 ## Katkıda Bulunma
 
-Katkılar memnuniyetle karşılanır! İyileştirmeler önermek veya hataları bildirmek için lütfen çekme istekleri gönderin veya sorunlar açın.
+
 
 ## Yazar
 
-\[Adınız veya GitHub Kullanıcı Adınız]
+\Remzi Samed Küsmüş
 
 ## Lisans
 
-\[Bir lisans seçin, örneğin, MIT Lisansı]
+\
